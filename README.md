@@ -30,13 +30,17 @@
 10. Then, we need to execute the sudo "insmod cmpe283-1.ko" command in order to load the kernel object.
   
 11. Now, we use the "dmesg" command in order to view the output.
-  
+
+        Screenshot-1
+        
     ![1](https://user-images.githubusercontent.com/98682905/200493214-f903ec3f-0e8c-4826-b093-3f9704d6cc28.jpeg)
 
-  
+    Screenshot-2
+    
     ![2](https://user-images.githubusercontent.com/98682905/200493343-9a9b2300-be3d-4895-b996-af763381138b.jpeg)
 
-  
+    Screenshot-3
+    
     ![3](https://user-images.githubusercontent.com/98682905/200493412-c976098a-6b71-47a5-b6c7-57511ac1470a.jpeg)
 
   
